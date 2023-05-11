@@ -1,0 +1,2 @@
+# Binary
+Scoop Binary Archive
